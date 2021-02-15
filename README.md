@@ -16,7 +16,7 @@ https://github.com/muhammadwildansyabani/sekolah-frontend
 
 1. Clone atau download zip Repository ini.
 
-2. Import Database dengan nama db_sekolah.sql
+2. Buat Database dengan Nama db_sekolah dan Import Database dengan nama db_sekolah.sql
 File berada di luar folder atau klik <a href="https://github.com/muhammadwildansyabani/sekolah-backend/blob/master/db_sekolah.sql" target="_blank">disini</a>
 
 3. Jalankan command dibawah ini untuk menjalankan project secara lokal.
