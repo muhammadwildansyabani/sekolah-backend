@@ -19,7 +19,12 @@ https://github.com/muhammadwildansyabani/sekolah-frontend
 2. Buat Database dengan Nama db_sekolah dan Import Database dengan nama db_sekolah.sql
 File berada di luar folder atau klik <a href="https://github.com/muhammadwildansyabani/sekolah-backend/blob/master/db_sekolah.sql" target="_blank">disini</a>
 
-3. Jalankan command dibawah ini untuk menjalankan project secara lokal.
+3. Jalankan command di bawah ini untuk membuat symlink folder storage ke dalam folder public, agar file apapun yang kita upload di dalam folder storage dapat diakses melalui folder public.
+```
+php artisan storage:link
+```
+
+4. Jalankan command dibawah ini untuk menjalankan project secara lokal.
 ```
 php artisan serve
 ```
